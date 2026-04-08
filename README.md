@@ -48,15 +48,20 @@ Healthcare data is highly sensitive and vulnerable to cyber threats. This projec
 ---
 
 ## 📂 Project Structure
-
-
-##│── api.py # API endpoints
-##│── main.py # Main application logic
-##│── blockchain.py # Blockchain implementation
-##│── encryption.py # Encryption logic
-##│── database.db # SQLite database
-##│── dataset/ # Sample healthcare data
-##│── README.md
+Quantum-Healthcare-Project/
+│
+├── api.py # API endpoints
+├── main.py # Main application logic
+├── blockchain.py # Blockchain implementation
+├── encryption.py # Encryption logic
+├── database.db # SQLite database
+│
+├── dataset/ # Dataset folder
+│ ├── sample1.csv
+│ ├── sample2.csv
+│
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
 
 ## 🌐 API Endpoints
 Method	Endpoint	Description
