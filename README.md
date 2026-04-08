@@ -50,13 +50,13 @@ Healthcare data is highly sensitive and vulnerable to cyber threats. This projec
 ## 📂 Project Structure
 
 
-#│── api.py # API endpoints
-#│── main.py # Main application logic
-#│── blockchain.py # Blockchain implementation
-#│── encryption.py # Encryption logic
-#│── database.db # SQLite database
-#│── dataset/ # Sample healthcare data
-#│── README.md
+##│── api.py # API endpoints
+##│── main.py # Main application logic
+##│── blockchain.py # Blockchain implementation
+##│── encryption.py # Encryption logic
+##│── database.db # SQLite database
+##│── dataset/ # Sample healthcare data
+##│── README.md
 
 ## 🌐 API Endpoints
 Method	Endpoint	Description
